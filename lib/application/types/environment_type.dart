@@ -1,0 +1,4 @@
+enum EnvironmentType {
+  development,
+  production;
+}
